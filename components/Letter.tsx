@@ -49,7 +49,7 @@ export const Letter: React.FC<LetterProps> = ({ onBack, onNext }) => {
 
         <section className="mt-8 text-gray-700">
           <p className="font-dancing text-3xl text-[#E98FA9] opacity-0 animate-[fadeInUp_0.6s_0.6s_ease-out_forwards]">
-            Dear moon <span className="inline-block text-2xl">💖</span>
+            Dear Bhen <span className="inline-block text-2xl">💖</span>
           </p>
           <p className="mt-4 text-base sm:text-lg leading-relaxed min-h-[100px] sm:min-h-[72px]">
             {animatedText}
